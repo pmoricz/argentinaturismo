@@ -9,9 +9,11 @@
     </div>
     <!-- END navbar -->
     <div class="wrapper">
+        <!--slider-->
         <div>
-            <!--slider-->
+            <!-- @include('slider') -->
         </div>
+        <!-- END slider-->
         <div>
             <!--BOX DE REGIONES-->
         </div>
