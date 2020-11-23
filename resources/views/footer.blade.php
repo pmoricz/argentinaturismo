@@ -1,4 +1,3 @@
-@extends('welcome')
 @section('footer')
 <footer>
     <div class="container">
